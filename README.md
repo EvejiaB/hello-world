@@ -1,2 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+Introduction: My name is E'vejia' Burgman and I am a Computer Engineering major. I am originally from Valdosta, Ga and I moved to Warner Robins, Ga in 2019. My whole life I've played sports. I've played soccer, softball, and I did gymnastics before I moved. After I moved, I took a year off from sports then 
+I started doing all-star cheer, while continuing softball, soccer and track. The reason I chose to be a computer engineering major is because I love math and I want to see how code and computer's work. Learning how things are designed and how they work are very interesting to me. As I person, I am very dedicated, hard-working, humble, patient, and adaptable person. My reasoning for choosing North Carolina A& T State University, is because they have a great STEM program, there's a lot of academic opportunities, and they're the number one HCBU that produces the most successful black engineers. 
